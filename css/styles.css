@@ -54,6 +54,7 @@ body {
 .header-menu-link {
     color: #2E2F42;
     font-size: 16px;
+    font-style: normal;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -64,16 +65,17 @@ body {
     color: #404BBF;
 }
  
-.adress-menu-link {
+.adress-menu {
     color: #434455;  
     font-size: 16px;
+    font-style: normal;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
 }
 
-.adress-menu-item:is(:hover, :focus) {
+.adress-menu:is(:hover, :focus) {
     color: #404BBF;
 }
 
