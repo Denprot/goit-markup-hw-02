@@ -42,6 +42,7 @@ body {
     font-weight: 800;
     line-height: 1.17; 
     letter-spacing: -0.03em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -54,7 +55,7 @@ body {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
     text-align: left;
 }
 
@@ -67,7 +68,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
     text-align: left;
 }
 
@@ -88,7 +89,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 .hero-btn {
@@ -100,7 +101,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5; 
-    letter-spacing: -0.04em;
+    letter-spacing: 0.04em;
     background-color: #4D5AE5;
 }
 
@@ -115,7 +116,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5; 
-    letter-spacing: -0.04em;
+    letter-spacing: 0.04em;
     background-color: #E7E9FC;
 }
 
@@ -144,7 +145,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 .advantages-item-text {
@@ -153,7 +154,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 /*----pictures----*/
@@ -165,7 +166,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 /*----team----*/
@@ -180,7 +181,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 .team-list list {
 }
@@ -195,7 +196,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 .team-item-text {
@@ -205,7 +206,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 .support-list-text {
@@ -214,7 +215,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.2; 
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 .support-btn-text {
@@ -223,7 +224,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 /*----basement----*/
@@ -235,7 +236,7 @@ body {
     font-style: normal;
     font-weight: 800;
     line-height: 1.17;
-    letter-spacing: -0,03em;
+    letter-spacing: 0,03em;
     text-transform: uppercase;
 }
 
@@ -245,7 +246,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: -0.02em; 
+    letter-spacing: 0.02em; 
 }
 .basement {
     background: #2E2F42;
