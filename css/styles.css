@@ -64,11 +64,14 @@ body {
 .header-menu-link:is(:hover, :focus) {
     color: #404BBF;
 }
+
+.adress-link {
+    font-style: normal;
+}
  
 .adress-menu {
     color: #434455;  
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
