@@ -1,3 +1,7 @@
+:root {
+    --brand-color: #4D5AE5
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -37,7 +41,7 @@ body {
 /*----header----*/
 
 .header-logo {
-    color: var(--iris, #4D5AE5);
+    color: var(--brand-color);
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
@@ -109,7 +113,7 @@ body {
     font-weight: 500;
     line-height: 1.5; 
     letter-spacing: 0.04em;
-    background-color: #4D5AE5;
+    background-color: var(--brand-color);
 }
 
 .hero-btn:is(:hover, :focus) {
@@ -117,7 +121,7 @@ body {
 }
 
 .btn-roll {
-    color: #4D5AE5;
+    color: var(--brand-color);
     font-family: inherit;
     cursor: pointer;
     font-size: 16px;
