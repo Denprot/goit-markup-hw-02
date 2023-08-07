@@ -178,7 +178,7 @@ body {
 /*----team----*/
 
 .team {
-    background-color: #F4F4FD
+    background: var(--cloud, #F4F4FD)
 }
 
 .team-title {
@@ -190,9 +190,8 @@ body {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    background-color: #FFFFFF;
 }
-.team-list list {
+.team-list {
 }
 
 .team-item {
