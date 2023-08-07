@@ -192,9 +192,11 @@ body {
     text-transform: capitalize;
 }
 .team-list {
+ 
 }
 
 .team-item {
+    background-color: #FFFFFF 
 }
 
 .team-subtitle {
