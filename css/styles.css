@@ -17,12 +17,6 @@ body {
 }
 
 .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
     
     white-space: nowrap;
     clip-path: inset(100%);
@@ -62,7 +56,6 @@ body {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: left;
 }
 
 .header-menu-link:is(:hover, :focus) {
@@ -79,7 +72,6 @@ body {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: left;
 }
 
 .adress-menu:is(:hover, :focus) {
